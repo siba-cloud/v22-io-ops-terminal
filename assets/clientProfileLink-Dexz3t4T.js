@@ -1,0 +1,1 @@
+import{i as e,t}from"./react-PSPkXoKo.js";import{t as n}from"./useAuth-FMuWPFin.js";var r=e(t(),1),i=`customers:access`;function a(e){return`/customers/${encodeURIComponent(e)}`}function o(){let{hasPermission:e}=n(),t=e(i);return(0,r.useCallback)(e=>t&&e?a(e):void 0,[t])}export{o as n,i as r,a as t};

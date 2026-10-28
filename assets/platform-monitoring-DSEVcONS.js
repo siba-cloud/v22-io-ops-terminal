@@ -1,0 +1,1 @@
+var e={auditLogs:`auditlogs:read`,sanlamRecon:`auditlogs:sanlam-recon-read`,streamHealth:`platform:stream-health:read`};export{e as t};

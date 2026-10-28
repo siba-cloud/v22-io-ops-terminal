@@ -1,0 +1,1 @@
+var e={read:`ops-positions:read`};export{e as t};

@@ -1,0 +1,1 @@
+var e={read:`ops-delegations:read`,grant:`ops-delegations:grant`,revoke:`ops-delegations:revoke`};export{e as t};

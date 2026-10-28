@@ -1,0 +1,1 @@
+import{i as e,t}from"./react-PSPkXoKo.js";var n=e(t(),1),r=`part`,i=(0,n.createContext)(null);function a(){return(0,n.useContext)(i)}export{i as n,a as r,r as t};

@@ -1,0 +1,1 @@
+var e=`!px-[11px] !py-[6px] !text-[12.5px]`;export{e as t};

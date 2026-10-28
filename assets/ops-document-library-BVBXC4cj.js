@@ -1,0 +1,1 @@
+var e={read:`ops-document-library:read`},t=[`Email`,`API`,`Manual upload`],n=[`Received`,`Loaded`,`Rejected`];export{t as n,n as r,e as t};

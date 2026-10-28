@@ -1,0 +1,1 @@
+import{r as e}from"./accountFreeze-dbVuGNTO.js";function t(t){return e(t)===`Sumsub`?`AmlUnfreeze`:`Unfreeze`}function n(t){let n={Sumsub:0,Manual:0};for(let r of t)r.status===`Active`&&(n[e(r)]+=1);return n}export{t as n,n as t};

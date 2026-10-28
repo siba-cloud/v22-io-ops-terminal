@@ -1,0 +1,1 @@
+var e={readDeposits:`ops-instructions:read`,readCredits:`ops-cash:read`,match:`ops-credits:match`};export{e as t};

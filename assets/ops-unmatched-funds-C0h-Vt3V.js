@@ -1,0 +1,1 @@
+var e=[`Unassigned`,`PendingApproval`,`Allocated`],t={read:`ops-unmatched-funds:read`,assign:`ops-unmatched-funds:assign`,authorise:`ops-unmatched-funds:authorise`};export{e as n,t};

@@ -1,0 +1,1 @@
+var e={read:`risk-rating:read`,calculate:`risk-rating:calculate`,override:`risk-rating:override`,approveOverride:`risk-rating:approve-override`},t={read:`risk-model:read`,propose:`risk-model:propose`,approve:`risk-model:approve`};export{e as n,t};

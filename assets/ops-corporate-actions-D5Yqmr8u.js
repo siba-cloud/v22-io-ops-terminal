@@ -1,0 +1,1 @@
+var e={read:`corporate-actions:read`,manage:`corporate-actions:manage`,approve:`corporate-actions:approve`},t=`ops-instructions:authorise`;export{t as n,e as t};

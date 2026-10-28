@@ -1,0 +1,1 @@
+var e={read:`finance-subscriptions:read`,manage:`finance-subscriptions:manage`,approveRefund:`finance-subscriptions:approve-refund`},t=`Subscriptions.NotConnected`,n=[`D1`,`D2`,`D3`,`D4`,`D5`,`D6`,`D7`,`D8`,`D9`,`D10`],r=[`M1`,`M2`,`M3`];export{e as i,r as n,t as r,n as t};

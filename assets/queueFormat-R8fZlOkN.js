@@ -1,0 +1,1 @@
+import{t as e}from"./opsFormat-32BIKugE.js";function t(t){if(!t)return`—`;let n=e(t);return/^\d{4}-\d{2}-\d{2}$/.test(n)?n:`—`}export{t};

@@ -1,0 +1,1 @@
+import{t as e}from"./withDemoFallback-3Sja4O6G.js";function t(t){return e()&&typeof t==`string`&&t.startsWith(`demo-`)}export{t};

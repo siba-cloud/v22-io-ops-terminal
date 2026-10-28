@@ -1,0 +1,1 @@
+var e={read:`finance-xero:read`,resolve:`finance-xero:resolve`,configure:`finance-xero:configure`},t=`Xero.NotConnected`;export{e as n,t};

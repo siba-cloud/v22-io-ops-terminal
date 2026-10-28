@@ -1,0 +1,1 @@
+var e=[`ManualOverride`,`EmailedProof`,`RolledOver`],t=[`FirstTime`,`Recurring`],n={read:`ops-cash:read`,adjust:`ops-cash:adjust`,approveAdjustment:`cash-adjustments:approve-l2`};export{t as n,n as r,e as t};

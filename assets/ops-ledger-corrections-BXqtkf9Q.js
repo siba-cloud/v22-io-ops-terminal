@@ -1,0 +1,1 @@
+var e={stock:{read:`ops-positions:read`,capture:`ops-positions:adjust`,authorise:`stock-adjustments:approve-l2`},cash:{read:`ops-cash:read`,capture:`ops-cash:reverse`,authorise:`cash-reversals:authorise`}};export{e as t};

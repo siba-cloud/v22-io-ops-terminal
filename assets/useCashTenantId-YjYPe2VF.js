@@ -1,0 +1,1 @@
+import{r as e,t}from"./useAuth-FMuWPFin.js";import{s as n}from"./viewAsSlice-BT5Ns3Fe.js";import{i as r}from"./tenant-dnPEPxOj.js";function i(){let{user:i}=t(),{selectedTenantId:a}=e(n);return(r(i?.tenantId)?a:i?.tenantId)??void 0}export{i as t};

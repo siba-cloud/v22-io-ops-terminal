@@ -1,0 +1,1 @@
+function e(e){return e.level===`Client`||e.level===`Tenant`?e.level:e.customerId?`Client`:`Tenant`}export{e as t};

@@ -1,0 +1,1 @@
+import{i as e}from"./useAuth-FMuWPFin.js";import{t}from"./opsCorporateActionsService-DRTMWg0R.js";import{t as n}from"./useCorporateActionsContext-BpdzFYdv.js";function r(){let{token:r,tenantId:i,needsTenant:a}=n();return e({queryKey:[`ca`,`counts`,i],queryFn:()=>t.list(r,{pageSize:1},i),enabled:!!r&&!a})}export{r as t};

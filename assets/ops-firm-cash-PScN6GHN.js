@@ -1,0 +1,1 @@
+var e={read:`ops-cash:read`,manage:`ops-firm-cash:manage`};export{e as t};

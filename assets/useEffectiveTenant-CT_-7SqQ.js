@@ -1,0 +1,1 @@
+import{r as e,t}from"./useAuth-FMuWPFin.js";import{s as n}from"./viewAsSlice-BT5Ns3Fe.js";import{i as r}from"./tenant-dnPEPxOj.js";function i(){let{user:i,tenantName:a}=t(),{selectedTenantId:o,selectedTenantName:s}=e(n),c=r(i?.tenantId);return{effectiveTenantName:c?s:a,effectiveTenantId:c?o:i?.tenantId,isSuperAdmin:c,superAdminNoTenant:c&&!s}}export{i as t};

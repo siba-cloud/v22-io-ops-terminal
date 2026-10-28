@@ -1,0 +1,1 @@
+function e(e){let t=e?.trim();return!t||t.includes(`@`)?null:t}function t(t,n){return e(t)??n}export{t as n,e as t};
